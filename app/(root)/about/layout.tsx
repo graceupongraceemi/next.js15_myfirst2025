@@ -1,6 +1,6 @@
 import React from 'react';
 
-const layout = ({ childre }: { children: React.ReactNode }) => {
+const layout = ({ children }: { children: React.ReactNode }) => {
   return (
     <div>
       l<h1 className='text-3xl'>NAVBAR</h1>
